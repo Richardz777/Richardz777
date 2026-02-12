@@ -9,17 +9,17 @@ I am seeking an opportunity as a Junior Information Security Analyst or SOC Anal
 
 ## Skills
 
-| Skill                                                                                    | Associated Project         |
-|------------------------------------------------------------------------------------------|----------------------------|
-| Security Fundamentals: CIA Triad, risk and vulnerability concepts, basic knowledge of    | <a href="https://google.com">Detection Lab</a>|
+| Skill                                                                                    |
+|------------------------------------------------------------------------------------------|
+| Security Fundamentals: CIA Triad, risk and vulnerability concepts, basic knowledge of    |
   NIST and ISO 27001.                                                                      
-| Monitoring & SIEM: Log analysis, event correlation,familiarity with tools such as        | <a href="https://google.com">Detection Lab</a>|
+| Monitoring & SIEM: Log analysis, event correlation,familiarity with tools such as        |
  Splunk, Sentinel, or Wazuh                                                                
-| Incident Response: Incident identification, classification,documentation,                | SOC Automation Lab|
+| Incident Response: Incident identification, classification,documentation,                | 
   and proper escalation                                                                    
-| Networking: TCP/IP, DNS, common ports and protocols, firewall fundamentals               | SOC Automation Lab|
-| Systems: Windows and Linux log analysis, basic Active Directory knowledge                | SOC Automation Lab|
-| Soft Skills: Analytical thinking, attention to detail, teamwork, and clear communication | SOC Automation Lab|
+| Networking: TCP/IP, DNS, common ports and protocols, firewall fundamentals               | 
+| Systems: Windows and Linux log analysis, basic Active Directory knowledge                | 
+| Soft Skills: Analytical thinking, attention to detail, teamwork, and clear communication |
 
 ## Tools
 
